@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(51, 50, 50);
+  
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.botao{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ralph{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
